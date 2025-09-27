@@ -15,6 +15,9 @@
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-green)  
 ![Status](https://img.shields.io/badge/Project-Completed-success)  
 
+
+![Energy Analysis](energy.gif)
+
 ---
 
 ## 🌟 Why This Project?  
