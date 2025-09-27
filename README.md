@@ -16,9 +16,7 @@
 ![Status](https://img.shields.io/badge/Project-Completed-success)  
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTI5eDdrbGhzdm1lNnVvdnZobGJrYWtmMGVsZ3d2cWRsaGdnbXZ1OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vFKqnCdLPNOKc/giphy.gif" width="500"/>
-</p>
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/e8254370-9d21-42cd-be25-266a085e3b11" />
 
 ---
 
