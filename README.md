@@ -16,7 +16,9 @@
 ![Status](https://img.shields.io/badge/Project-Completed-success)  
 
 
-![Energy Analysis](energy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTI5eDdrbGhzdm1lNnVvdnZobGJrYWtmMGVsZ3d2cWRsaGdnbXZ1OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vFKqnCdLPNOKc/giphy.gif" width="500"/>
+</p>
 
 ---
 
