@@ -1,4 +1,4 @@
-# 🌍 Worldwide Energy Consumption Analysis (MySQL Project)
+# 🌍 Worldwide Energy Consumption Analysis using mysql
 
 ## 👨‍💻 About Me  
 **Name:** Pavan Suresh Ahire  
@@ -8,12 +8,33 @@
 
 ---
 
-## 📌 Project Objective  
-The objective of this project is to analyze **global energy consumption data using SQL**, compare usage patterns across countries, and generate insights on:  
-- **Trends** in energy demand and supply.  
-- **Emissions** and their relation to GDP and population.  
-- **Efficiency** of energy use across countries.  
-- Support **policy-making & sustainable energy management**.  
+# ⚡ Worldwide Energy Consumption Analysis  
+*A Data-Driven SQL Project on Global Energy Trends*  
+
+![Energy Banner](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql)  
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-green)  
+![Status](https://img.shields.io/badge/Project-Completed-success)  
+
+---
+
+## 🌟 Why This Project?  
+Energy is at the **heart of global development** 🌍.  
+This project analyzes **production, consumption, GDP, emissions, and population** across countries to answer:  
+
+✔ Which countries consume the most energy?  
+✔ How is GDP growth linked to energy usage?  
+✔ What role does population play in emissions?  
+✔ Are major economies leading or lagging in sustainability?  
+
+---
+
+## ✨ Highlights of the Project  
+- 🔍 **16 Key SQL Queries** covering emissions, GDP, population, and energy insights.  
+- 📊 **ER Diagram & Structured Database** for efficient analysis.  
+- 🌱 **Business insights & recommendations** for sustainable energy use.  
+- 🧠 **Real-world problem-solving** using SQL joins, aggregations, and subqueries.  
+
+---
 
 ---
 
@@ -79,33 +100,6 @@ This project analyzed **global energy consumption, production, emissions, GDP, a
 - Writing efficient queries with multiple **JOINs, GROUP BY, and aggregations**.  
 - Structuring queries to extract **meaningful insights**.  
 - Improved skills in **SQL filtering, query optimization, and real-world analysis**.  
-
----
-# ⚡ Worldwide Energy Consumption Analysis  
-*A Data-Driven SQL Project on Global Energy Trends*  
-
-![Energy Banner](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql)  
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-green)  
-![Status](https://img.shields.io/badge/Project-Completed-success)  
-
----
-
-## 🌟 Why This Project?  
-Energy is at the **heart of global development** 🌍.  
-This project analyzes **production, consumption, GDP, emissions, and population** across countries to answer:  
-
-✔ Which countries consume the most energy?  
-✔ How is GDP growth linked to energy usage?  
-✔ What role does population play in emissions?  
-✔ Are major economies leading or lagging in sustainability?  
-
----
-
-## ✨ Highlights of the Project  
-- 🔍 **16 Key SQL Queries** covering emissions, GDP, population, and energy insights.  
-- 📊 **ER Diagram & Structured Database** for efficient analysis.  
-- 🌱 **Business insights & recommendations** for sustainable energy use.  
-- 🧠 **Real-world problem-solving** using SQL joins, aggregations, and subqueries.  
 
 ---
 
