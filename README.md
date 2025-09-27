@@ -26,8 +26,8 @@ The objective of this project is to analyze **global energy consumption data usi
 
 ---
 ## 📊 ERD (Entity Relationship Daigram)
-![ER Diagram](<img width="719" height="591" alt="erd" src="https://github.com/user-attachments/assets/cfbff161-360c-4071-b9e4-6a3b2dc331ad" />
-)
+<img width="719" height="591" alt="erd" src="https://github.com/user-attachments/assets/cfbff161-360c-4071-b9e4-6a3b2dc331ad" />
+
 
 ---
 
